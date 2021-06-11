@@ -1,7 +1,7 @@
 # Challenge-collecting-data
 
 >## Mission:<br/>
-> *The real estate company "ImmoEliza"  wants to create a machine learning model to make price predictions on real estate sales in Belgium.*
+> *The real estate company "ImmoEliza"  wants to create a machine learning model to make price predictions on real estate sales in Belgium.*<br/>
 >We have created a dataset that represents the following features:<br/>
 > 1.  Locality<br/>
 > 1. Type of property<br/>
