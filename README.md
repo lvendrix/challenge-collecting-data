@@ -14,9 +14,9 @@
 > 1. Furnished<br/>
 > 1. Open fire<br/>
 > 1. Terrace<br/>
->	1. Terrace Area<br/>
+>	a. Terrace Area<br/>
 > 1. Garden<br/>
->	1. Garden Area<br/>
+>	a. Garden Area<br/>
 > 1. Surface of land<br/>
 > 1. Surface of plot<br/>
 > 1.Number of facades<br/>
