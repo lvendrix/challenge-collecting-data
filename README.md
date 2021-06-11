@@ -9,7 +9,7 @@
 > 1. Price<br/>
 > 1. Type of sale<br/>
 > 1. Number of rooms<br/>
-> 1 . Area<br/>
+> 1. Area<br/>
 > 1. Kitchen equiped<br/>
 > 1. Furnished<br/>
 > 1. Open fire<br/>
