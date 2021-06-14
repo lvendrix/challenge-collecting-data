@@ -36,4 +36,4 @@
 ><br/> 
 > Open the *output.csv* file to analyze the results<br/>
 ><br/>
->There are __30346__ property links<br/>
+>There are *30346* property links<br/>
