@@ -1,0 +1,148 @@
+Type_of_property,Subtype_of_property,Locality,Price,Type_of_sale,Number_of_rooms,Area,Kitchen_type,Furnished,Open_fire,Terasse,Garden,Surface_of_land,Surface_plot_land,Number_of_facades,Swimming_pool,Building_condition
+House,House,9600 — Ronse,179000,,2,145,Hyper equipped,No,0,0,0,140,80,2,0,Good
+House,House,9406 — Ninove,425000,,3,190,Hyper equipped,No,0,0,0,472,,4,0,As new
+House,House,1020 — Laeken,475000,,4,175,Semi equipped,No,0,0,150,259,,2,0,To be done up
+House,House,1150 — Sint-Pieters-Woluwe,695000,,4,165,Installed,No,0,0,70,289,,3,0,To be done up
+House,Mansion,1930 — NOSSEGEM,419000,,3,220,USA hyper equipped,No,1,0,380,570,,3,0,Good
+House,House,1930 — NOSSEGEM,419000,,3,220,USA hyper equipped,No,1,0,380,570,,3,0,Good
+House,Apartment block,1200 — Woluwe-Saint-Lambert,460000,,4,165,Not installed,No,0,0,38,130,,2,0,To renovate
+House,Villa,2960 — Brecht,649000,,3,212,Installed,No,1,0,1014,1207,,4,0,As new
+House,Villa,1640 — Rhode-St-Genèse,1150000,,4,235,Hyper equipped,No,1,0,900,1161,,4,0,Good
+House,House,1200 — Woluwe-Saint-Lambert,460000,,4,165,Not installed,No,0,0,38,130,,2,0,To renovate
+House,Bungalow,4500 — Huy,195000,New build,2,100,Semi equipped,No,0,0,0,489,,4,0,As new
+House,House,4020 — Liege,245000,,4,185,Semi equipped,No,0,0,0,470,120,2,0,To be done up
+House,House,3000 — Leuven,379000,,3,104,Installed,Yes,0,0,0,49,,2,0,Good
+House,House,1300 — Limal,480000,,3,130,Hyper equipped,No,0,0,450,816,,4,0,As new
+House,House,4030 — Liège Grivegnée,185000,,3,108,Installed,No,0,0,0,70,70,2,0,Good
+House,Villa,1300 — Wavre,365000,,3,110,Installed,No,0,0,555,620,73,4,0,Good
+House,House,1970 — Wezembeek-Oppem,475000,,3,153,USA hyper equipped,No,0,0,130,182,155,2,0,To be done up
+House,House,1770 — Liedekerke,449000,,3,234,Hyper equipped,No,0,0,0,351,88,3,0,As new
+House,Apartment block,1040 — Etterbeek,1065000,,7,290,Installed,No,0,0,20,105,,2,0,To be done up
+House,House,1300 — Wavre,695000,,4,250,Hyper equipped,No,0,0,630,731,145,4,0,As new
+House,House,1600 — SINT-PIETERS-LEEUW,285000,,3,131,Installed,No,0,0,0,75,,2,0,Good
+House,House,1601 — Ruisbroek,285000,,3,131,Installed,No,0,0,0,75,,2,0,Good
+House,House,1750 — Lennik,379000,,3,120,Semi equipped,No,0,0,2716,1,,4,0,To be done up
+House,House,2610 — Wilrijk,449000,,4,180,Hyper equipped,No,0,0,0,202,,2,0,Just renovated
+House,House,8530 — Harelbeke,249000,,3,180,Installed,No,0,0,0,235,,2,0,Just renovated
+House,Exceptional property,1150 — Woluwe-Saint-Pierre,1875000,New build,5,551,USA hyper equipped,No,0,0,450,620,551,4,0,As new
+House,House,4101 — Seraing Jemeppe-sur-Meuse,250000,,4,172,Installed,No,0,0,349,603,128,3,0,Good
+House,House,4170 — Comblain-au-Pont,280000,,3,240,USA hyper equipped,No,0,0,409,695,,2,0,Good
+House,House,4550 — Nandrin,445000,,4,225,Installed,No,1,0,1103,1278,,4,0,As new
+House,House,1150 — Woluwe-Saint-Pierre,990000,New build,6,485,Hyper equipped,No,0,0,0,251,143,2,0,As new
+House,House,4560 — OCQUIER,159500,,2,90,Semi equipped,No,0,0,0,439,,4,0,To be done up
+House,House,4500 — Huy,325000,,4,210,Installed,No,0,0,313,413,,2,0,Good
+House,Country house,1700 — Dilbeek Sint-Martens-Bodegem,699000,,3,199,Installed,No,0,0,0,1728,,4,0,Good
+House,Apartment block,4020 — Liege,,New price,3,185,Semi equipped,No,0,0,0,470,120,2,0,To be done up
+House,Mansion,1030 — Schaerbeek,985000,New price,4,340,Hyper equipped,No,0,0,0,130,,2,0,Good
+House,House,1150 — Woluwe-Saint-Pierre,925000,,4,220,Hyper equipped,No,0,0,300,1176,,3,0,Good
+House,House,1380 — Lasne,499000,,4,180,USA hyper equipped,No,0,0,250,710,,2,0,Good
+House,House,1030 — Schaerbeek,1200000,,6,350,Not installed,No,0,0,65,300,,2,0,To renovate
+House,Town-house,1700 — Dilbeek,395000,,4,220,Hyper equipped,No,0,0,200,320,220,2,0,To be done up
+House,House,9700 — Oudenaarde,329000,,3,238,Installed,No,0,0,1233,1394,,4,0,Good
+House,House,3320 — Hoegaarden (Hoksem),347500,,3,181,USA hyper equipped,No,0,0,1200,1488,130,4,0,Good
+House,House,4520 — Huccorgne,380000,,6,255,Hyper equipped,No,0,0,200,365,90,3,0,As new
+House,Mansion,8500 — Kortrijk,349500,,3,240,Installed,No,0,0,0,400,,2,0,Good
+House,House,4470 — STOCKAY,275000,,3,150,Semi equipped,No,0,0,1000,1112,,4,0,To be done up
+House,House,3300 — Tienen,275000,,3,112,Installed,No,0,0,130,195,,2,0,Just renovated
+House,House,3070 — Kortenberg,415000,,4,177,Installed,No,0,0,0,612,,3,0,Good
+House,House,8530 — Harelbeke,290000,,3,165,USA installed,No,0,0,320,423,100,3,0,As new
+House,House,8550 — Zwevegem,311000,,4,181,Hyper equipped,No,0,0,275,497,,2,0,Good
+House,House,1140 — Evere,369000,,2,190,Not installed,No,0,0,100,162,60,2,0,To be done up
+House,Mixed-use building,6630 — Martelange,445000,,4,481,Installed,No,0,0,0,685,,3,0,To be done up
+House,House,9600 — Ronse,259500,New build,4,152,Not installed,No,0,0,149,216,52,2,0,As new
+House,Mixed-use building,1701 — Dilbeek,795000,,5,346,Hyper equipped,No,0,0,0,2632,,4,0,As new
+House,House,8720 — Dentergem,299000,,3,135,Installed,No,0,0,0,115,,2,0,Just renovated
+House,House,1030 — Schaarbeek,560000,,3,180,Installed,No,0,0,60,150,,3,0,Just renovated
+House,House,4500 — Huy,175000,,4,150,Not installed,No,0,0,400,540,78,2,0,To renovate
+House,House,9220 — Hamme,239000,,3,150,Installed,No,0,0,0,110,,2,0,Just renovated
+House,House,5360 — Hamois - Barsy,289000,,5,143,Installed,No,0,0,768,827,59,3,0,As new
+House,House,8790 — Waregem,395000,,3,185,USA installed,No,0,0,535,650,120,4,0,Good
+House,House,4400 — AWIRS,419000,,5,274,Installed,No,1,0,0,3943,,4,0,Good
+House,Villa,1950 — Kraainem,895000,,4,250,Hyper equipped,No,0,0,350,677,,4,0,As new
+House,House,2800 — Mechelen,925000,,3,410,Installed,No,0,0,250,483,,2,0,As new
+House,House,6767 — Rouvroy Lamorteau,295000,,3,122,Semi equipped,No,0,0,1633,1634,,4,0,Good
+House,House,5000 — Namur,335000,,3,282,Semi equipped,No,0,0,11002,1100,,4,0,Good
+House,House,6672 — Beho,260000,,4,316,Semi equipped,No,0,0,769,906,,3,0,Good
+House,House,8540 — Deerlijk,348000,,3,300,Installed,No,0,0,0,326,,3,0,Just renovated
+House,House,4400 — FLÉMALLE-GRANDE,175000,,3,130,Installed,No,0,0,0,175,,2,0,Good
+House,Bungalow,5300 — Andenne,255000,,2,100,Installed,No,0,0,200,408,,4,0,Just renovated
+House,House,3020 — Herent,355000,,2,121,Installed,No,0,0,0,162,,2,0,Good
+House,House,3120 — Tremelo,370000,,3,164,Installed,No,1,0,0,770,,4,0,To be done up
+House,House,3020 — Herent,380000,,3,110,Semi equipped,No,0,0,51,163,,3,0,Good
+House,Villa,2490 — Balen,549000,,3,310,Installed,No,1,0,0,1389,,4,0,As new
+House,Mansion,7972 — QUEVAUCAMPS,650000,,5,350,Installed,No,0,0,0,3350,,4,0,Good
+House,Country house,2861 — Sint-Katelijne-Waver Onze-Lieve-Vrouw-Waver,698000,,4,294,USA hyper equipped,No,0,0,0,3117,,4,0,As new
+House,House,1060 — Saint-Gilles,935000,,3,250,USA hyper equipped,No,0,0,0,,250,2,0,Good
+House,House,1755 — Gooik,1050000,,3,426,Not installed,No,0,0,0,1412,,4,0,Good
+House,Mixed-use building,6870 — Saint-Hubert,89000,,3,180,Not installed,No,0,0,0,96,96,2,0,To renovate
+House,House,4170 — Comblain-au-Pont,110000,,2,69,Not installed,No,0,0,80,144,,2,0,To renovate
+House,House,4400 — Flémalle Flémalle-Haute,115000,,1,90,Installed,No,0,0,0,70,,2,0,Good
+House,House,4430 — Ans,115000,,3,125,Not installed,No,0,0,0,77,,2,0,To renovate
+House,House,9600 — Ronse,119500,,2,115,Installed,No,0,0,0,50,50,2,0,Good
+House,Mixed-use building,4030 — Liège Grivegnée,129000,,3,156,Not installed,No,0,0,0,71,67,2,0,To be done up
+House,Town-house,4020 — Liege,130000,,2,129,Not installed,No,0,0,0,91,91,2,0,To renovate
+House,House,4990 — Arbrefontaine,135000,,3,124,Not installed,No,0,0,0,203,67,3,0,To be done up
+House,House,9600 — Ronse,139000,,2,130,Installed,No,0,0,0,50,50,2,0,Good
+House,House,9600 — Ronse,149000,,3,150,Not installed,No,0,0,20,90,70,2,0,To be done up
+House,House,9600 — Ronse,159000,,5,207,Installed,No,0,0,0,160,140,2,0,To renovate
+House,House,4000 — Liège,160000,,4,165,Not installed,No,0,0,96,183,,3,0,To renovate
+House,House,4340 — Awans,169000,,3,120,Not installed,No,0,0,280,484,105,2,0,To renovate
+House,House,4430 — Ans,175000,,2,84,Not installed,No,0,0,90,178,70,4,0,To renovate
+House,House,4340 — Awans,179000,,2,100,Installed,No,0,0,177,260,,2,0,Good
+House,House,4460 — GrÃce-Hollogne,179000,,3,150,Hyper equipped,No,0,0,0,134,98,3,0,Good
+House,House,9600 — Ronse,179900,,4,140,Installed,No,0,0,0,70,70,2,0,Just renovated
+House,House,4800 — Verviers Ensival,180000,,5,200,Installed,No,0,0,122,215,87,2,0,Good
+House,House,9600 — Ronse,189000,,2,162,Installed,No,0,0,50,170,70,2,0,Good
+House,Mixed-use building,9600 — Ronse,195000,,4,201,Not installed,No,0,0,105,370,265,2,0,To renovate
+House,House,9600 — Ronse,199900,,3,162,Hyper equipped,No,0,0,0,94,70,2,0,Just renovated
+House,Mixed-use building,4920 — Aywaille,209000,,5,208,Semi equipped,No,0,0,0,209,,3,0,To renovate
+House,House,4920 — Aywaille,209000,,5,208,Semi equipped,No,0,0,0,209,,3,0,To renovate
+House,Mansion,9600 — Ronse,220000,,3,189,Installed,No,0,0,75,231,122,2,0,To be done up
+House,Bungalow,4530 — Villers-le-Bouillet,235000,,3,140,Semi equipped,No,0,0,1300,1423,100,4,0,To renovate
+House,House,4050 — Chaudfontaine,239000,,5,250,Semi equipped,No,0,0,200,296,100,3,0,Good
+House,House,4460 — GRÂCE-HOLLOGNE,239000,,3,175,Installed,No,0,0,175,440,,4,0,Just renovated
+House,House,9600 — Ronse,239500,,4,173,Installed,No,0,0,85,190,80,2,0,As new
+House,House,4420 — Saint-Nicolas Montegnée,245000,,3,116,USA hyper equipped,No,0,0,120,177,58,2,0,As new
+House,House,9600 — Ronse,249900,,4,173,Hyper equipped,No,0,0,20,133,90,2,0,Just renovated
+House,House,5030 — Gembloux,250000,,2,81,Semi equipped,No,1,0,400,633,,3,0,To be done up
+House,House,1601 — Sint-Pieters-Leeuw,267000,,2,102,USA hyper equipped,No,0,0,15,81,102,2,0,As new
+House,Apartment block,1080 — Molenbeek-Saint-Jean,275000,,8,270,Semi equipped,No,0,0,0,76,63,2,0,To restore
+House,House,1330 — Rixensart,285000,,3,115,Installed,No,0,0,0,164,72,3,0,Good
+House,Mixed-use building,4500 — Huy,289000,,3,322,Semi equipped,No,0,0,400,492,144,3,0,Good
+House,House,6800 — Libramont-Chevigny,295000,,5,460,Semi equipped,No,0,0,0,321,,2,0,To be done up
+House,Mansion,9600 — Ronse,295000,,5,261,Installed,No,0,0,66,279,198,3,0,Good
+House,House,4520 — BAS-OHA,309000,,5,170,Semi equipped,No,0,0,600,891,,4,0,Good
+House,Villa,4520 — BAS-OHA,309000,,5,170,Semi equipped,No,0,0,600,891,,4,0,Good
+House,House,4120 — Neupré Rotheux-Rimière,310000,,3,108,Installed,No,0,0,2730,2815,,4,0,To be done up
+House,House,4470 — Saint-Georges-sur-Meuse,335000,,4,140,Hyper equipped,No,0,0,1300,2013,113,4,0,To be done up
+House,House,1930 — Zaventem,349000,,3,120,Semi equipped,No,0,0,100,171,,2,0,To renovate
+House,Villa,9600 — Ronse,349000,,4,186,Hyper equipped,No,0,0,485,992,220,4,0,Good
+House,House,1420 — Braine-l'Alleud,350000,,4,207,Installed,No,0,0,490,585,,3,0,Good
+House,House,1480 — Tubize,378000,,4,210,Semi equipped,No,0,0,850,968,100,3,0,Good
+House,House,3000 — Leuven,395000,,3,104,Installed,Yes,0,0,0,49,,2,0,Good
+House,Apartment block,4500 — Huy,395000,,5,400,Hyper equipped,No,0,0,366,603,186,4,0,As new
+House,Exceptional property,4500 — Huy,395000,,5,400,Hyper equipped,No,0,0,366,603,186,4,0,As new
+House,House,7181 — Seneffe,395000,,4,380,Hyper equipped,No,0,0,2955,3145,351,4,0,Good
+House,Apartment block,1070 — Anderlecht,399000,,3,190,USA hyper equipped,No,0,0,0,50,46,2,0,Good
+House,House,3202 — Aarschot Rillaar,400000,,6,293,Hyper equipped,No,0,0,0,1023,,4,0,Good
+House,House,1600 — Sint-Pieters-Leeuw,410000,,2,130,USA hyper equipped,Yes,0,0,70,250,62,3,0,As new
+House,House,1070 — Anderlecht,415000,,4,145,Installed,No,0,0,0,95,80,3,0,Good
+House,House,2820 — Bonheiden,425000,,4,182,USA hyper equipped,No,0,0,117,175,,2,0,As new
+House,Town-house,1853 — Grimbergen Strombeek-Bever,430000,,4,155,USA hyper equipped,No,0,0,50,170,160,2,0,Just renovated
+House,House,1970 — Wezembeek-Oppem,449000,,2,168,Semi equipped,No,0,0,0,625,,3,0,To renovate
+House,House,4530 — FIZE-FONTAINE,449000,,4,330,Installed,No,1,0,450,893,,2,0,As new
+House,Villa,7830 — Silly,449000,,4,220,Installed,No,0,0,950,1150,,4,0,As new
+House,Mixed-use building,1190 — Forest,450000,,2,220,Installed,No,0,0,60,193,200,2,0,As new
+House,Villa,9400 — Ninove,460000,,4,225,Installed,No,0,0,0,1635,,4,0,Good
+House,House,1460 — Ittre,465000,,5,225,USA hyper equipped,No,0,0,400,601,,2,0,As new
+House,House,1480 — Tubize,465000,,5,225,USA hyper equipped,No,0,0,400,601,,2,0,As new
+House,House,1170 — Watermael-Boitsfort,470000,,3,130,Hyper equipped,No,0,0,30,83,,2,0,Good
+House,House,1421 — Ophain-Bois-Seigneur-Isaac,475000,,5,170,Installed,No,1,0,400,710,,4,0,Good
+House,Villa,1300 — Wavre,490000,,3,178,Installed,No,1,0,600,948,,4,0,Good
+House,Villa,1300 — Wavre,495000,,3,150,Hyper equipped,No,0,0,300,600,,4,0,As new
+House,Villa,1330 — Rosières,495000,,4,170,Installed,No,0,0,0,740,110,4,0,To renovate
+House,House,1640 — Rhode-Saint-Genèse,495000,,3,185,Semi equipped,No,0,0,562,635,192,2,0,Just renovated
+House,House,1020 — Laeken,539000,,6,390,Installed,Yes,0,0,346,386,,2,0,To renovate
+House,House,1200 — Woluwe-Saint-Lambert,540000,,4,225,Not installed,No,0,0,240,319,,3,0,To renovate
+House,Exceptional property,1742 — Ternat,549000,,3,221,USA hyper equipped,No,0,0,283,420,,4,0,Good
+House,House,9600 — Ronse,620000,,4,393,Hyper equipped,No,1,0,434,569,,2,0,Good
