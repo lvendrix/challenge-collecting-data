@@ -2,7 +2,9 @@
 
 >## Mission:<br/>
 > *The real estate company "ImmoEliza"  wants to create a machine learning model to make price predictions on real estate sales in Belgium.*<br/>
->We have created a dataset that represents the following features:<br/>
+>
+>The *output.csv* file shows some of the results we were able to scrape from *www.immoweb.be* in a dataset with the following features:<br/>
+>
 > 1.  Locality<br/>
 > 1. Type of property<br/>
 > 1. Subtype of property<br/>
@@ -32,8 +34,8 @@
 
 >## Usage:<br/>
 ><br/>
-> Run the python file; patch the .txt file path to access the links (code line 186)<br/>
+> Run the python file patching the .txt file path to access the links (code line 186)<br/>
 ><br/> 
-> Open the output.csv file to analyze the results<br/>
+> Open your output.csv file to analyze the results<br/>
 ><br/>
 >There are 30346 property links<br/>
