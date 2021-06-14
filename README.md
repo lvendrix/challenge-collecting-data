@@ -1,39 +1,38 @@
-# Challenge-collecting-data
+# ImmoWeb Scraping
 
->## Mission:<br/>
-> *The real estate company "ImmoEliza"  wants to create a machine learning model to make price predictions on real estate sales in Belgium.*<br/>
->We have created a dataset that represents the following features:<br/>
-> 1.  Locality<br/>
-> 1. Type of property<br/>
-> 1. Subtype of property<br/>
-> 1. Price<br/>
-> 1. Type of sale<br/>
-> 1. Number of rooms<br/>
-> 1. Area<br/>
-> 1. Kitchen equiped<br/>
-> 1. Furnished<br/>
-> 1. Open fire<br/>
-> 1. Terrace<br/>
->	a. Terrace Area<br/>
-> 1. Garden<br/>
->	a. Garden Area<br/>
-> 1. Surface of land<br/>
-> 1. Surface of plot<br/>
-> 1. Number of facades<br/>
-> 1. Swimming pool<br/>
-> 1. State of building<br/>
-><br/>
+## Description
 
->## Installation:<br/>
-> Download the files:<br/>
->	1. *belgium_properties.txt*<br/>
->	1. *properties_output_vXX.py*<br/>
-><br/>
+This project is about creating a large dataset on real estate for price prediction purposes.
+For that reason, we have chosen to collect data from immoweb website. We have chosen immoweb
+because it's the number one real estate company in Belgium. So we are to collect data from all
+localities in Belgium and also we have the opportunity to collect a large quantity of data.
 
->## Usage:<br/>
-><br/>
-> Run the python file; patch the .txt file path to access the links (code line 186)<br/>
-><br/> 
-> Open the output.csv file to analyze the results<br/>
-><br/>
->There are 30346 property links<br/>
+Our mission is to collect the following informations:
+
+![mission](mission.png)
+
+## Installation
+
+In order to achieve our mission of collecting the above informations, we'll be using the following tools:
+- Python language
+- Selenium library
+- pyquery library
+
+We are using Python because it's the best programming language in data science, big data and machine learning.
+We prefer to use **selenium** instead of **requests** because requests has some limitation. We noticed that, when there are some javascript functionalities, requests is not efficient for grabbing some information.
+Finally, we noticed that **Beautifulsoup** is a bit slow for handling large amount of data. That's why we used **pyquery**.
+
+So, make sure to have these tools installed on your computer or your virtual environment.
+
+## Usage
+
+Put the following files in the same folder:
+
+- chromedriver.exe
+- get_links.py
+- get_properties_details.py
+- main.py
+
+Open your terminal and move to the folder contenaining all these files. Make sure to activate your virtual environment. Then run `python main.py`
+
+Lastly, check the **all_properties_info.csv** file generated to see all the dataset.
