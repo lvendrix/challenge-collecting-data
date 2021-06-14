@@ -12,7 +12,6 @@ from random import randint
 import csv
 import pandas as pd
 
-lock = RLock()
 
 class PropertyLinks(Thread):
     def __init__(self, link):
@@ -21,14 +20,13 @@ class PropertyLinks(Thread):
 
     def run(self):
         #Logan's code here to extract house data:
-        with lock:
-            list_results = []
-            list_results.append(url_information(self.link))
-            keys = list_results[0].keys()
-            a_file = open("./output.csv", "a", encoding="utf-8")
-            dict_writer = csv.DictWriter(a_file, keys)
-            dict_writer.writeheader()
-            dict_writer.writerows(list_results)
+        list_results = []
+        list_results.append(url_information(self.link))
+        keys = list_results[0].keys()
+        a_file = open("./output.csv", "a", encoding="utf-8")
+        dict_writer = csv.DictWriter(a_file, keys)
+        dict_writer.writeheader()
+        dict_writer.writerows(list_results)
 
 
 def url_information(url):
@@ -198,3 +196,4 @@ with open("C:\\Users\\joser\\BeCode_Course\\03_Python\\Assignments\\collecting_d
         url = links.readline()
         thread = PropertyLinks(url)
         thread.start()
+        thread.join()
