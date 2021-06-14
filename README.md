@@ -34,7 +34,7 @@ In order to achieve our mission of collecting the above informations, we'll be u
 - Selenium library
 - requests
 - BeautifulSoup library
-- pyquery library
+- Pyquery library
 
 We are using Python because it's the best programming language in data science, big data and machine learning.
 We prefer to use **selenium** instead of **requests** because requests has some limitation. We noticed that, when there are some javascript functionalities, requests is not efficient for grabbing some information.
