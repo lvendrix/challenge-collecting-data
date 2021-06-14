@@ -15,14 +15,17 @@ import os
 from os import path
 
 def url_information(url):
-    options = webdriver.ChromeOptions() 
-    options.headless = True
-    options.add_experimental_option("excludeSwitches", ["enable-automation"])
-    options.add_experimental_option('useAutomationExtension', False)
-    driver = webdriver.Chrome(options=options, executable_path=r'C:\Program Files\Google\Chrome\Application\chromedriver.exe')
-    #driver.set_page_load_timeout(7)
-    driver.get(url)
-    q = BeautifulSoup(driver.page_source, features='lxml')
+    #options = webdriver.ChromeOptions() 
+    #options.headless = True
+    #options.add_experimental_option("excludeSwitches", ["enable-automation"])
+    #options.add_experimental_option('useAutomationExtension', False)
+    #driver = webdriver.Chrome(options=options, executable_path=r'C:\Program Files\Google\Chrome\Application\chromedriver.exe')
+    ##driver.set_page_load_timeout(7)
+    #driver.get(url)
+    time.sleep(random.uniform(1.0, 2.0))
+    r = requests.get(url)
+    #print(url, r.status_code)
+    q = BeautifulSoup(r.content,'lxml')
 
     result = {}
 
@@ -183,6 +186,7 @@ list_results = []
 with open("./houses_antwerp_test.txt", "r", encoding="utf-8") as links:
     for line in links:
         url = links.readline()
+        url = url.strip('\n')
         list_results.append(url_information(url))
         keys = list_results[0].keys()
         a_file = open("output.csv", "w", encoding="utf-8")
