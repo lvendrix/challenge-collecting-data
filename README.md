@@ -23,11 +23,13 @@
 > 1. Swimming pool<br/>
 > 1. State of building<br/>
 ><br/>
+
 >## Installation:<br/>
 > Download the files:<br/>
 >	1. *belgium_properties.txt*<br/>
 >	1. *properties_output_vXX.py*<br/>
 ><br/>
+
 >## Usage:<br/>
 >There are** 30346** property links<br/>
 ><br/>
