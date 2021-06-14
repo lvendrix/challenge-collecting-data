@@ -1,3 +1,4 @@
+from os import link
 from typing import Text
 import selenium
 from selenium import webdriver
@@ -13,21 +14,19 @@ import pandas as pd
 
 
 class PropertyLinks(Thread):
-    def __init__(self):
+    def __init__(self, link):
         Thread.__init__(self)
+        self.link = link
 
     def run(self):
         #Logan's code here to extract house data:
         list_results = []
-        with open("C:\\Users\\joser\\BeCode_Course\\03_Python\\Assignments\\collecting_data\\challenge-collecting-data\\houses_provinces\\houses_antwerp_test.txt", "r+", encoding="utf-8") as links:
-            while links:
-                url = links.readline()
-                list_results.append(url_information(url))
-                keys = list_results[0].keys()
-                a_file = open("output.csv", "a", encoding="utf-8")
-                dict_writer = csv.DictWriter(a_file, keys)
-                dict_writer.writeheader()
-                dict_writer.writerows(list_results)
+        list_results.append(url_information(self.link))
+        keys = list_results[0].keys()
+        a_file = open("output.csv", "a", encoding="utf-8")
+        dict_writer = csv.DictWriter(a_file, keys)
+        dict_writer.writeheader()
+        dict_writer.writerows(list_results)
 
 
 def url_information(url):
@@ -192,6 +191,9 @@ def url_information(url):
  
     """
 
-thread = PropertyLinks()
-thread.start()
-thread.join()
+with open("C:\\Users\\joser\\BeCode_Course\\03_Python\\Assignments\\collecting_data\\challenge-collecting-data\\houses_provinces\\houses_antwerp_test.txt", "r+", encoding="utf-8") as links:
+    for items in links:
+        url = links.readline()
+        thread = PropertyLinks(url)
+        thread.start()
+        thread.join()
