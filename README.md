@@ -32,7 +32,7 @@
 
 >## Usage:<br/>
 ><br/>
-> Run the python file (patch the .txt file path to access the links (line 186))<br/>
+> Run the python file; patch the .txt file path to access the links (code line 186)<br/>
 ><br/> 
 > Open the output.csv file to analyze the results<br/>
 ><br/>
