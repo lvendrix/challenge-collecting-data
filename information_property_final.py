@@ -1,6 +1,5 @@
 import requests
 from pyquery import PyQuery
-import csv
 
 def url_information(url):
     response = requests.get(url)
@@ -228,10 +227,3 @@ links = ["https://www.immoweb.be/en/classified/bungalow/for-sale/huy/4500/937374
 
 for url in links:
     list_results.append(url_information(url))
-
-
-
-
-
-
-
