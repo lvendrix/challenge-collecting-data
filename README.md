@@ -32,8 +32,8 @@
 
 >## Usage:<br/>
 ><br/>
-> Run the python file (patch the .txt file path to access the links (_line 186_)<br/>
+> Run the python file (patch the .txt file path to access the links (line 186))<br/>
 ><br/> 
-> Open the_output.csv_ file to analyze the results<br/>
+> Open the output.csv file to analyze the results<br/>
 ><br/>
->There are**30346**property links<br/>
+>There are 30346 property links<br/>
