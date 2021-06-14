@@ -23,12 +23,12 @@
 > 1. Swimming pool<br/>
 > 1. State of building<br/>
 ><br/>
-> ## Installation:<br/>
+>## Installation:<br/>
 > Download the files:<br/>
 >	1. *belgium_properties.txt*<br/>
 >	1. *properties_output_vXX.py*<br/>
 ><br/>
-> ## Usage:<br/>
+>## Usage:<br/>
 >There are** 30346** property links<br/>
 ><br/>
 > Run the python file (patch the .txt file path to access the links - *line 194*)<br/>
